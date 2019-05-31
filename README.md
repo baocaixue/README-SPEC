@@ -2,19 +2,19 @@
 
 how to writing README.md :
 - [Headings](#Headings)
-- Styling text
-- Quoting text
-- Quoting code
-- Links
-- Section links
-- Relative links
-- Lists
-- Task lists
-- Mentioning people and teams
-- Referencing issues and pull requests
-- Content attachments
-- Using emoji
-- Paragraphs and line breaks
-- Ignoring Markdown formatting
+- [Styling text](#Styling text)
+- [Quoting text](#Quoting text)
+- [Quoting code](#Quoting code)
+- [Links](#Links)
+- [Section links](#Section links)
+- [Relative links](#Relative links)
+- [Lists](#Lists)
+- [Task lists](#Task lists)
+- [Mentioning people and teams](#Mentioning people and teams)
+- [Referencing issues and pull requests](#Referencing issues and pull requests)
+- [Content attachments](#Content attachments)
+- [Using emoji](#Using emoji)
+- [Paragraphs and line breaks](#Paragraphs and line breaks)
+- [Ignoring Markdown formatting](#Ignoring Markdown formatting)
 
 # Headings
