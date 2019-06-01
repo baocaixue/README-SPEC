@@ -65,10 +65,14 @@
   `This site was built using [GitHub Pages](https://pages.github.com/).`  
   ![image](https://help.github.com/assets/images/help/writing/link-rendered.png)  
   
-## 部分链接
+## 部分链接  
+  ``` [标题](#标题) ```
 
 ## 相对链接
-
+ 定义跳转到库中其他目录或文件的链接 
+ ``` [Contribution guidelines for this project](docs/CONTRIBUTING.md) ```  
+ ``` [到test文件](./text.txt)```  
+ [到test文件](./text.txt)
 ## 列表
 
 ## 任务列表
