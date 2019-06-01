@@ -17,8 +17,8 @@
 - [内容附件](#内容附件)
 - [表情](#表情)
 - [段落换行符](#段落换行符)
-- [Ignoring Markdown formatting](#忽略Markdown格式)
-- [Further reading](#Further reading)
+- [Ignoring Markdown formatting](#忽略Markdown格式)  
+- [Further reading](#Further-reading)  
 
 ## 标题  
  标题的格式：需要1——6个“#”号声明这是个标题，“#”号的个数代表了标题的大小
@@ -138,7 +138,7 @@
 ## 忽略Markdown格式  
  You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.  
  
-## Further reading
+## Further-reading
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - ["About writing and formatting on GitHub"](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
 - ["Working with advanced formatting"](https://help.github.com/en/articles/working-with-advanced-formatting)
