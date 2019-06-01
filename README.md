@@ -69,11 +69,20 @@
   ``` [标题](#标题) ```
 
 ## 相对链接
- 定义跳转到库中其他目录或文件的链接 
- ``` [Contribution guidelines for this project](docs/CONTRIBUTING.md) ```  
+ 定义跳转到库中其他目录或文件的链接       
+ ~~[Contribution guidelines for this project] (docs/CONTRIBUTING.md)  ~~
  ``` [到test文件](./text.txt)```  
  [到test文件](./test.txt)
-## 列表
+## 列表  
+ 可以通过 - 或* 添加一行或多行文本来创建无序列表。  
+ ```
+ - George Washington
+ - John Adams
+ - Thomas Jefferson
+ ```  
+ - George Washington
+ - John Adams
+ - Thomas Jefferson  
 
 ## 任务列表
 
