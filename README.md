@@ -18,6 +18,7 @@
 - [表情](#表情)
 - [段落换行符](#段落换行符)
 - [Ignoring Markdown formatting](#忽略Markdown格式)
+- [Further reading](#Further reading)
 
 ## 标题  
  标题的格式：需要1——6个“#”号声明这是个标题，“#”号的个数代表了标题的大小
@@ -121,12 +122,24 @@
  ` @baocaixue What do you think about these updates?`  
  @baocaixue What do you think about these updates?
 
-## 引用问题和提取请求
+## 引用问题和提取请求  
+ [Autolinked references and URLs.](https://help.github.com/en/articles/autolinked-references-and-urls)
 
-## 内容附件
+## 内容附件  
+ [Using Content Attachments](https://developer.github.com/apps/using-content-attachments/)
 
-## 表情
+## 表情  
+ @octocat :+1: This PR looks great - it's ready to merge! :shipit: :smile:
 
-## 段落换行符
 
-## 忽略Markdown格式
+## 段落换行符  
+ 可以通过在文本行之间留一个空行来创建新段落。
+
+## 忽略Markdown格式  
+ You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.  
+ 
+## Further reading
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- ["About writing and formatting on GitHub"](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
+- ["Working with advanced formatting"](https://help.github.com/en/articles/working-with-advanced-formatting)
+- ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/)
