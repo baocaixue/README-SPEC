@@ -69,8 +69,8 @@
   ``` [标题](#标题) ```
 
 ## 相对链接
- 定义跳转到库中其他目录或文件的链接       
- ~~[Contribution guidelines for this project] (docs/CONTRIBUTING.md)  ~~
+ 定义跳转到库中其他目录或文件的链接  
+ ~~[Contribution guidelines for this project] (docs/CONTRIBUTING.md)~~  
  ``` [到test文件](./text.txt)```  
  [到test文件](./test.txt)
 ## 列表  
@@ -83,10 +83,43 @@
  - George Washington
  - John Adams
  - Thomas Jefferson  
+ 
+ 可以使用编号：  
+ ```
+ 1. James Madison
+ 2. James Monroe
+ 3. John Quincy Adams
+ ```  
+ 1. James Madison
+ 2. James Monroe
+ 3. John Quincy Adams  
+ 
+ 列表层级：  
+ ```
+ 1. First list item
+    - First nested list item
+      - Second nested list item（注意这里-的位置）
+ ```  
+ 1. First list item
+    - First nested list item
+      - Second nested list item  
 
-## 任务列表
+## 任务列表  
+ 任务列表，列表符号`-`后跟`[]`符号，完成的任务标记为x  
+ ```
+ - [x] 任务1
+ - [ ] 任务2
+ - [ ] 任务3
+ ```  
+ - [x] 任务1
+ - [ ] 任务2
+ - [ ] 任务3  
 
-## 提及人和团队
+
+## 提及人和团队  
+ 可以在GitHub上提一个人或团队，输入@ plus他们的用户名或团队名。 这将触发通知并将他们的注意力引向对话。 如果您编辑评论以提及其用户名或团队名称，也会收到通知。  
+ ` @github/baocaixue What do you think about these updates?`  
+ @github/baocaixue What do you think about these updates?
 
 ## 引用问题和提取请求
 
