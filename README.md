@@ -118,8 +118,8 @@
 
 ## 提及人和团队  
  可以在GitHub上提一个人或团队，输入@ plus他们的用户名或团队名。 这将触发通知并将他们的注意力引向对话。 如果您编辑评论以提及其用户名或团队名称，也会收到通知。  
- ` @github/baocaixue What do you think about these updates?`  
- @github/baocaixue What do you think about these updates?
+ ` @baocaixue What do you think about these updates?`  
+ @baocaixue What do you think about these updates?
 
 ## 引用问题和提取请求
 
