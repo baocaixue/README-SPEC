@@ -142,4 +142,10 @@
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - ["About writing and formatting on GitHub"](https://help.github.com/en/articles/about-writing-and-formatting-on-github)
 - ["Working with advanced formatting"](https://help.github.com/en/articles/working-with-advanced-formatting)
-- ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/)
+- ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/)  
+
+
+> 👉 **Remember\!** hello.
+
+> ⚠ **Note**: test.
+
